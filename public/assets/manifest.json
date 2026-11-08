@@ -1,0 +1,404 @@
+{
+  "brand": "RoboRace",
+  "version": 1,
+  "rendererSha256": "2ad44fbe17e6eb832fd8738c3deeed26224ba9beb280adbed920506f9c1f2ec7",
+  "lockfileSha256": "b033c2ce6e41814bf1186c6885f434d7832372ef397af80b623f4dfbdd02ebe3",
+  "assets": [
+    {
+      "file": "public/assets/boards/arena-02.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "ebc80f95c6747a1aa3f5b59d08686573b0a00bec027fa4e08a83e0b9cc6cbbf0",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "6e4123f81c8e538a6975d59ac6192586d2a1179d5ffccc3d15e354b98deda376",
+      "description": "Шлюз"
+    },
+    {
+      "file": "public/assets/boards/arena-02-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "ebc80f95c6747a1aa3f5b59d08686573b0a00bec027fa4e08a83e0b9cc6cbbf0",
+      "width": 300,
+      "height": 400,
+      "sha256": "93205b1361d9fe61c1da57845d7254e21fa6c32a9abcd87d08d788af11df9f40",
+      "description": "Шлюз"
+    },
+    {
+      "file": "public/assets/boards/arena-03.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "eb8679f687562817886ece42eb3c13fdf3bbe1c3b2a08bbc161c5392b5178241",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "98915f3c8086bb097d8bae000a9986956d1cc6214a2d911dc05d79901c4b5b03",
+      "description": "Веретено"
+    },
+    {
+      "file": "public/assets/boards/arena-03-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "eb8679f687562817886ece42eb3c13fdf3bbe1c3b2a08bbc161c5392b5178241",
+      "width": 300,
+      "height": 400,
+      "sha256": "c2697b2b045a1dd33be7f0111a3414b10c63f1a6affda19bd7ca8bdc894f0236",
+      "description": "Веретено"
+    },
+    {
+      "file": "public/assets/boards/arena-04.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "fc45d35c741e92d411406162ac888990615966be4631085c7801b708c9230ffb",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "3026d698ada80e2a61e2053177189d1c94463b4d804b9da899b7dd5bbe65aba1",
+      "description": "Серпантин"
+    },
+    {
+      "file": "public/assets/boards/arena-04-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "fc45d35c741e92d411406162ac888990615966be4631085c7801b708c9230ffb",
+      "width": 300,
+      "height": 400,
+      "sha256": "96b5f39953fc48a171dcbee7b002dfa2700ffea375360ecfc5919a78ff68c7f3",
+      "description": "Серпантин"
+    },
+    {
+      "file": "public/assets/boards/arena-05.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "741bb20a2d7265aafcd57a857e682d960b8be3c283c473fe037be0a9f06e8794",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "56183d938584d34b3b84877190aabf2a36be9750301fd837db5fe7024df54e31",
+      "description": "Ротор"
+    },
+    {
+      "file": "public/assets/boards/arena-05-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "741bb20a2d7265aafcd57a857e682d960b8be3c283c473fe037be0a9f06e8794",
+      "width": 300,
+      "height": 400,
+      "sha256": "5db3c11c90ebd49e08456c751a84c365529e3529f43cb4019257ac00ab4ce870",
+      "description": "Ротор"
+    },
+    {
+      "file": "public/assets/boards/arena-06.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "811e4dcce991d4b4d530e4be8732210c590e67afff629a0eb01edab9c5128a93",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "1491de0aa838a5a54e6d6f498c9c2a48db616bfdb7769f511ffbf8f036db1cc6",
+      "description": "Двойной вихрь"
+    },
+    {
+      "file": "public/assets/boards/arena-06-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "811e4dcce991d4b4d530e4be8732210c590e67afff629a0eb01edab9c5128a93",
+      "width": 300,
+      "height": 400,
+      "sha256": "9ec175eaf0c36346cf71fd0d14a8a110c481d38ab1e4d396eca6136853876c9e",
+      "description": "Двойной вихрь"
+    },
+    {
+      "file": "public/assets/boards/arena-07.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "5e79716cf96c9daa3e2f23aa404e08eae67895635c3830840e00b9576d90a05c",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "6be44dcdd6fcabde36d5f29b441afc756652410432040cee7e0cd26fb56c2f60",
+      "description": "Шесть камер"
+    },
+    {
+      "file": "public/assets/boards/arena-07-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "5e79716cf96c9daa3e2f23aa404e08eae67895635c3830840e00b9576d90a05c",
+      "width": 300,
+      "height": 400,
+      "sha256": "bfcba984f03e466f31524afa0ec8f1881e2c03b83bca185e7a65010fb7e07aea",
+      "description": "Шесть камер"
+    },
+    {
+      "file": "public/assets/boards/arena-08.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "0ed35fc761ba0bb77e283cca0963f893c7ea2559623eef36652a144aeabb7fe0",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "f8176ff29c38b39817ad18a9524793e71eaf128151522372d1f8df19ae8b0749",
+      "description": "Синхронизатор"
+    },
+    {
+      "file": "public/assets/boards/arena-08-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "0ed35fc761ba0bb77e283cca0963f893c7ea2559623eef36652a144aeabb7fe0",
+      "width": 300,
+      "height": 400,
+      "sha256": "bdf4e392132f7869eb6a389c4f633df4a540d41a88343185450d1b2a6c7a356e",
+      "description": "Синхронизатор"
+    },
+    {
+      "file": "public/assets/boards/arena-09.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "ae87e51f2ff2807cf7546c7489c07c20e6111b9bb26a45dab514cd1cef2a3e2e",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "51e963946dae6d8d7689974daeccca5a99bea7d8570cb4f929c209c9e9bc2d07",
+      "description": "Архипелаг"
+    },
+    {
+      "file": "public/assets/boards/arena-09-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "ae87e51f2ff2807cf7546c7489c07c20e6111b9bb26a45dab514cd1cef2a3e2e",
+      "width": 300,
+      "height": 400,
+      "sha256": "89cb3ab7907fb49452a67912d2035cd699b997992c9d07d61005617437df9621",
+      "description": "Архипелаг"
+    },
+    {
+      "file": "public/assets/boards/arena-10.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "f7f69d30e8e797637a99176dbebeae28cab0fe9ffd0d6bfe1581ed0240ef7fc2",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "d560b339a6af1c1b4acb96fffdc14bc49977ec505cc5614b4c912cf81629ce65",
+      "description": "Развязка"
+    },
+    {
+      "file": "public/assets/boards/arena-10-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "f7f69d30e8e797637a99176dbebeae28cab0fe9ffd0d6bfe1581ed0240ef7fc2",
+      "width": 300,
+      "height": 400,
+      "sha256": "aaded2abfac5bb5d45479782d274b8ef1b6066a501c4010f0d7844779607b976",
+      "description": "Развязка"
+    },
+    {
+      "file": "public/assets/boards/arena-11.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "8b052409480ca40aca858f428796ec296f6bbfb35bf80b294369e8359688dad3",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "851753cf131b6ecc5c52af1c45446ee0b2bab79b5bd0131b89370fc0adc71bf0",
+      "description": "Гребёнка"
+    },
+    {
+      "file": "public/assets/boards/arena-11-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "8b052409480ca40aca858f428796ec296f6bbfb35bf80b294369e8359688dad3",
+      "width": 300,
+      "height": 400,
+      "sha256": "0036191f2f648bd6b79a52fe73ccd0f20a986dfe064f50b3096ba3b66d1c81bd",
+      "description": "Гребёнка"
+    },
+    {
+      "file": "public/assets/boards/arena-12.webp",
+      "kind": "precomputed-arena",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "d0f54871c8eb0c378d9887a6b0e6e942dd1f82b21a632bdb80c1bf3bc25b9789",
+      "width": 1440,
+      "height": 1920,
+      "sha256": "75532e0713e1435bcc6436272df423ebc20e35ccf22602b2ef139603bb2041dc",
+      "description": "Разлом"
+    },
+    {
+      "file": "public/assets/boards/arena-12-thumb.webp",
+      "kind": "arena-thumbnail",
+      "generator": "public/arena-art.js",
+      "source": "data/fields.js",
+      "geometrySha256": "d0f54871c8eb0c378d9887a6b0e6e942dd1f82b21a632bdb80c1bf3bc25b9789",
+      "width": 300,
+      "height": 400,
+      "sha256": "0ec5f175c481e662e2ea22f82185aa2a2733bdba85db5db40c05f611eb2f98b9",
+      "description": "Разлом"
+    },
+    {
+      "file": "public/assets/editor/belt-straight.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "f78834f92bf27fdf1cf7c7579999f08fee0c588087033ab569201e84dfb8ca2d",
+      "description": "Editor tool: belt-straight"
+    },
+    {
+      "file": "public/assets/editor/express-straight.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "de48a505f7de40991f7d9804ac66333b92be256d3ee5ebb00473ad95d2368722",
+      "description": "Editor tool: express-straight"
+    },
+    {
+      "file": "public/assets/editor/pit.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "fecc2f30a65bea243d5fcc84033f519b91ffd85e08649131d99ced8b52d499cc",
+      "description": "Editor tool: pit"
+    },
+    {
+      "file": "public/assets/editor/repair.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "d41d8b15377f7cf5653eda2e87ff173f6360755da3d807bf02c8086dc568fa44",
+      "description": "Editor tool: repair"
+    },
+    {
+      "file": "public/assets/editor/gear-left.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "1fd44905dee39224ef8da008410d8fac08fb52f745bdfe4292bf505bf4ac8f6e",
+      "description": "Editor tool: gear-left"
+    },
+    {
+      "file": "public/assets/editor/gear-right.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "1c70b44649d308a04849861ccf104c3810e8fbaeab1143e2ba93456e5d4ae2bd",
+      "description": "Editor tool: gear-right"
+    },
+    {
+      "file": "public/assets/editor/wall.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "f89f8b0cd265763a13407bbb5b106319269d7e2e9bf04924d5cc9b2e45d30a98",
+      "description": "Editor tool: wall"
+    },
+    {
+      "file": "public/assets/editor/laser.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "e3840db04797c62ff46acea632bcb719baf66c237826b1a153af6c1a713ff00d",
+      "description": "Editor tool: laser"
+    },
+    {
+      "file": "public/assets/editor/pusher.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "5179df684af9b4c538bcff0f0dcb83985a87a1c99239ceece3fe81eb238b9ce4",
+      "description": "Editor tool: pusher"
+    },
+    {
+      "file": "public/assets/editor/flag.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "2e553af66e595ea5013420c31d17bf4532ca0ffa846a3a311f5ee47f366ab0a5",
+      "description": "Editor tool: flag"
+    },
+    {
+      "file": "public/assets/editor/erase.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "059076fd344b9fab53d91fc74a31705bda1f082236387b2bf334bed2a2650c41",
+      "description": "Editor tool: erase"
+    },
+    {
+      "file": "public/assets/guide/conveyor-straight.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "53e55aa5059ad5c3a216580c6b8beeb7b7283d85bbf95fb093d03fa2747ab202",
+      "description": "Guide scene: conveyor-straight"
+    },
+    {
+      "file": "public/assets/guide/conveyor-turn.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "b5cf275863698af8260c7a094a78679c7d3f94504f7fb5a6ccbbca321c8925c7",
+      "description": "Guide scene: conveyor-turn"
+    },
+    {
+      "file": "public/assets/guide/conveyor-merge-triple.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "66e147bc65d8bc59d7cc50bdd45d694fa94d5373c7388a1710f56a2ecc1a8ce3",
+      "description": "Guide scene: conveyor-merge-triple"
+    },
+    {
+      "file": "public/assets/guide/pusher-odd.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "1cb943668226588ec161c26d5ee053f615497d9cdafd8e04b6b55b3bec9e32c6",
+      "description": "Guide scene: pusher-odd"
+    },
+    {
+      "file": "public/assets/guide/gear-clockwise.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "65646150197c6a6f01328be987f0e28eee5471cd092c9c8c247f8e91d4015ccd",
+      "description": "Guide scene: gear-clockwise"
+    },
+    {
+      "file": "public/assets/guide/laser-double.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "83599c0ed4606713f60189a0b0d3638d827cf52a03bb5f396eb925c0d52aed5f",
+      "description": "Guide scene: laser-double"
+    },
+    {
+      "file": "public/assets/guide/wall.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "2cddd1278f9845a5036fead389440132acd64e5b26c03b8eac66f7c8e7e25375",
+      "description": "Guide scene: wall"
+    },
+    {
+      "file": "public/assets/guide/pit.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "eea34bb9e203e318662df079b4e7e75f95c51ab80bda3b2acb15801d9b5a0e36",
+      "description": "Guide scene: pit"
+    },
+    {
+      "file": "public/assets/guide/repair.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "ef3d48989184d2988238696aa104f500d06fe22369c7fa1e6a5c1af4c9570d9f",
+      "description": "Guide scene: repair"
+    },
+    {
+      "file": "public/assets/guide/collision.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "11ac26106c43e7937ae51d5b4b6283b35c2b4ac3709d739a6a7f401b680aa409",
+      "description": "Guide scene: collision"
+    },
+    {
+      "file": "public/assets/guide/collision-wall.svg",
+      "kind": "svg-illustration",
+      "generator": "public/arena-art.js",
+      "sha256": "aec0aed55f899a6955bcb4d52cc9519d69c808a16fe7b249308bca432631c79e",
+      "description": "Guide scene: collision-wall"
+    }
+  ]
+}

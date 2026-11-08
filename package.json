@@ -1,0 +1,29 @@
+{
+  "name": "roborace-web",
+  "version": "1.0.0",
+  "private": true,
+  "main": "module.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node ../meme-police-sandbox/server.js .",
+    "dev": "node --watch ../meme-police-sandbox/server.js .",
+    "assets:build": "node scripts/build-assets.js",
+    "test": "node test/run.js",
+    "test:fields": "node test/run.js fields",
+    "test:browser": "node test/run.js browser",
+    "test:persistence": "node test/run.js persistence",
+    "test:all": "node test/run.js all"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "^1.0.8",
+    "playwright-core": "^1.62.1"
+  },
+  "files": [
+    "module.js",
+    "data",
+    "public",
+    "scripts"
+  ]
+}
